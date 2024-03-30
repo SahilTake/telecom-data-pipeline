@@ -1,4 +1,4 @@
-# Cloud data warehouse
+# Telecom data pipeline
 
 ## Overview
 The project aims to design and implement a cloud-based data warehouse on AWS, leveraging various services to handle historic and daily data. The primary objective is to generate daily reports showcasing country-wise metrics, including the number of active subscribers and revenue.
